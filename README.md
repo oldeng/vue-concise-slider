@@ -1,6 +1,6 @@
 中文 | [English](https://github.com/warpcgd/vue-concise-slider/blob/master/README_EN.md)
 
-## vue-concise-slider
+## vue-concise-slider(类似swipper插件基本满足日常使用)
 
 [![npm](https://img.shields.io/npm/v/vue-concise-slider.svg)](https://www.npmjs.com/package/vue-concise-slider)
 [![npm](https://img.shields.io/npm/dw/vue-concise-slider.svg)](https://www.npmjs.com/package/vue-concise-slider)
